@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movie Catalouge API</string>
+    <string name="movie_label">MOVIE</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="tv_show_label">TV SHOW</string>
+    <string name="tv_show_name">TV Show Name</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="first_air_date">First Air Date</string>
+    <string name="original_language">Origin Language</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="poster">This is Poster</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
